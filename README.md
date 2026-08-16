@@ -1,8 +1,23 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Pokémon Infinite Fusion — Traducción al Español" width="900">
+</p>
+
 # Pokémon Infinite Fusion — Traducción al Español
 
 **Traducido por: Gcamlez** · Contacto: [Guillecamlez@gmail.com](mailto:Guillecamlez@gmail.com)
 
 > Traducción no oficial del fangame *Pokémon Infinite Fusion* (Kanto y Hoenn) al español. Este proyecto no está afiliado con Nintendo, Game Freak ni The Pokémon Company.
+
+---
+
+## 🎮 Comunidad oficial
+
+El fangame **no tiene sitio web oficial**. Para descargar el juego, estar al día de las actualizaciones y unirte a la comunidad, usa el **Discord oficial**:
+
+- **Discord oficial:** [discord.gg/infinitefusion](https://discord.gg/infinitefusion)
+- **Hilo en PokéCommunity:** [v6.7] Pokémon Infinite Fusion — New Pokémon, Character Customization and more
+
+> ⚠️ *Descarga el juego solo desde el Discord oficial o el hilo de PokéCommunity. Ten cuidado con webs que se hagan pasar por oficiales.*
 
 ---
 
@@ -53,12 +68,13 @@ El juego carga los textos desde archivos `.dat` (Marshal de Ruby). `spanish.dat`
 
 ---
 
-## ⚠️ Aviso legal
+## 🙏 Créditos
 
-*Pokémon Infinite Fusion* es un fangame hecho por fans, no oficial y sin ánimo de lucro. Pokémon es una marca registrada de Nintendo / Game Freak / The Pokémon Company. Esta traducción es un proyecto comunitario independiente.
+- **Pokémon Infinite Fusion** fue creado por **Chardub** y la comunidad del [Discord oficial](https://discord.gg/infinitefusion).
+- Los créditos completos de la traducción se muestran dentro del juego al finalizar la partida.
 
 ---
 
-## 🙏 Créditos
+## ⚠️ Aviso legal
 
-Los créditos completos de la traducción se muestran dentro del juego al finalizar la partida, junto a los créditos del fangame original.
+*Pokémon Infinite Fusion* es un fangame hecho por fans, no oficial y sin ánimo de lucro. Pokémon es una marca registrada de Nintendo / Game Freak / The Pokémon Company. Esta traducción es un proyecto comunitario independiente.
